@@ -6,6 +6,6 @@ This is is my Obsidian Vault for notes regarding Claude, Claude Code, etc.
 
 - Git
 
-## Frequent Notes
+## FAQ
 
 [[Overriding Default Models]]
