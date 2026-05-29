@@ -8,6 +8,6 @@ This is is my Obsidian Vault for notes regarding Claude, Claude Code, etc.
 
 ## FAN
 
-Frequently Accessed Notes:
+Frequently Accessed Notes
 
 [[Overriding Default Models]]
