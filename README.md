@@ -4,7 +4,7 @@ This is is my Obsidian Vault for notes regarding Claude, Claude Code, etc.
 
 ## Community Addons Used
 
-- Git
+- [Git](https://github.com/vinzent03/obsidian-git)
 
 ## FAQ
 
