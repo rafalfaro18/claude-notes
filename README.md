@@ -11,3 +11,4 @@ This is is my Obsidian Vault for notes regarding Claude, Claude Code, etc.
 Frequently Accessed Notes
 
 [[Overriding Default Models]]
+[[Skills]]
